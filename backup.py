@@ -4,9 +4,9 @@ from datetime import datetime
 
 # Configurações do banco de dados
 DB_USER = "root"  # Substitua pelo seu usuário MySQL
-DB_PASSWORD = "Phrh@5020"  # Substitua pela sua senha
-DB_NAME = "bancoponto"  # Substitua pelo nome do banco de dados
-HOST = "10.1.1.186"  # Ou o IP/host do servidor MySQL
+DB_PASSWORD = ""  # Substitua pela sua senha
+DB_NAME = ""  # Substitua pelo nome do banco de dados
+HOST = ""  # Ou o IP/host do servidor MySQL
 BACKUP_DIR = "C:\\Users\\Dev\\Desktop\\backups"  # Diretório para salvar o backup
 
 def execute_backup():
